@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260067352504",
+    "project_id": "meeyid-cursor-8cd32",
+    "storage_bucket": "meeyid-cursor-8cd32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260067352504:android:fb4f8236555976bcb3f94d",
+        "android_client_info": {
+          "package_name": "com.meeyid.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVVcWjAqOXmD578PJjY8i30fU1ygIIABY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
